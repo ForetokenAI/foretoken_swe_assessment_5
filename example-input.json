@@ -1,0 +1,16 @@
+[
+  {
+    "id": "u1",
+    "name": "Alice",
+    "team": "marketing",
+    "status": "active",
+    "lastLogin": "2024-12-10T10:00:00Z"
+  },
+  {
+    "id": "u2",
+    "name": "Bob",
+    "team": "sales",
+    "status": "inactive",
+    "lastLogin": "2024-03-01T10:00:00Z"
+  }
+]
