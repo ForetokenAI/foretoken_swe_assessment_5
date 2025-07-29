@@ -4,15 +4,14 @@ Welcome! You’ve been invited to complete a short, real-world coding challenge 
 
 ---
 
-## ⏱️ Assessment Format & Rules
+## 📋 What You Need to Know
 
-- You have **60 minutes** from the time you receive the zip file.
-- You are **required to record your full screen and camera via Zoom** during the assessment.
-  - Please start a Zoom meeting (just with yourself), turn on your camera, and begin recording.
-  - Incomplete recordings may disqualify your submission.
-- You **may use any AI tools (e.g., ChatGPT, Copilot, etc.)** — just like you would at work.
-- **Do not collaborate with another person.** This is a solo assessment.
-- You’ll receive a **reminder email 15 minutes before your time is up**.
+- Your **screen and audio recording** has already started (via your browser).
+- Please **do not close or refresh the assessment tab** — doing so will stop the recording and may void your submission.
+- You may use **any AI tools** (e.g. ChatGPT, GitHub Copilot, etc.)
+- This is a **solo** exercise — no pair programming or external help allowed.
+
+If you encounter issues, contact our team at **[assessment@foretokenai.com](mailto:assessment@foretokenai.com)** immediately.
 
 ---
 
@@ -38,15 +37,10 @@ You’ll be working on the following 4 tasks — complete as many as you can wit
 
 ## 📦 What to Submit
 
-By the end of the hour, please reply to this email with:
+After the timer ends, the platform will ask you to:
 
-1. ✅ A zip of your modified project folder
-2. 📹 Your full Zoom recording file
-3. 📝 A short response (in the email body) answering:
-   - Which tasks did you choose?
-   - What AI tools did you use, and how?
-   - Given more time, what else would you improve or complete?
-   - Any additional thoughts or feedback on the task?
+1. 📁 Upload your modified project as a `.zip`
+2. 🎤 Record a **short reflection video** (up to 2 minutes) in your browser
 
 ---
 
@@ -54,9 +48,12 @@ By the end of the hour, please reply to this email with:
 
 We’re not just looking for perfect code. We’re looking at:
 - Your ability to navigate a real codebase
-- How you use AI as a tool (not a crutch)
-- Prioritization and decision-making
-- Communication and clarity of thought
+- Your problem solving skills
+- Coding skills as well as documentation clarity
 
-Good luck!
-— The Foretoken AI Team
+---
+
+Good luck — we’re excited to see your thinking and approach!
+
+— The Foretoken AI Team  
+[assessment@foretokenai.com](mailto:assessment@foretokenai.com)
