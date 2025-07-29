@@ -20,7 +20,7 @@ Welcome! You’ve been invited to complete a short, real-world coding challenge 
 
 You’ll be working inside a small, realistic codebase in Node.js/Express. The goal is not to finish everything, but to make strong, thoughtful progress.
 
-You’ll choose from these 4 tasks:
+You’ll be working on the following 4 tasks — complete as many as you can within the time limit:
 
 1. **Fix a Bug**  
    `GET /users/:id` returns the wrong user when given an invalid ID format.
