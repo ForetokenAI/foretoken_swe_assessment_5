@@ -1,6 +1,8 @@
-# Foretoken AI - Real-Work Coding Assessment
+# Real-Work Coding Assessment
 
 Welcome! You’ve been invited to complete a short, real-world coding challenge designed to reflect the kind of work you might actually do on the job.
+
+This assessment is being delivered through Foretoken AI, a platform trusted by hiring teams to run realistic, AI-enhanced coding evaluations.
 
 ---
 
@@ -54,6 +56,4 @@ We’re not just looking for perfect code. We’re looking at:
 ---
 
 Good luck — we’re excited to see your thinking and approach!
-
-— The Foretoken AI Team  
-[assessment@foretokenai.com](mailto:assessment@foretokenai.com)
+Contact: [assessment@foretokenai.com](mailto:assessment@foretokenai.com)
