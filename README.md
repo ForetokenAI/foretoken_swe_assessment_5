@@ -56,4 +56,3 @@ We’re not just looking for perfect code. We’re looking at:
 ---
 
 Good luck — we’re excited to see your thinking and approach!
-Contact: [assessment@foretokenai.com](mailto:assessment@foretokenai.com)
