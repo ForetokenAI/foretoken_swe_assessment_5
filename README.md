@@ -24,12 +24,13 @@ You’ll be working inside a small, realistic codebase in Node.js/Express. The g
 You’ll be working on the following 4 tasks — complete as many as you can within the time limit:
 
 1. **Fix a Bug**  
-   `GET /users/:id` currently returns a `404 Not Found` for all invalid user IDs.  
-   Your task is to fix this behavior:
-   - If the `id` is not in a valid [UUID v4 format](https://en.wikipedia.org/wiki/Universally_unique_identifier#Version_4_(random)), return a **400 Bad Request**
-   - If the format is valid but the user doesn't exist, return **404 Not Found**
-   - If the user exists, return the user
-   Note: The users.json file is expected to contain valid UUID v4 IDs. Ensure your solution handles this expectation.
+   Currently, `GET /users/:id` returns **404 Not Found** in both of these cases:
+   - When the user is not found.
+   - When the `id` format is invalid (not a valid UUID v4).  
+   
+   Update the route so that:
+   - If the `id` format is invalid → return **400 Bad Request**
+   - If the `id` is valid but the user is not found → return **404 Not Found**
 
 2. **Extend an API**  
    Add support for query filtering: `/users?status=active&team=marketing`
@@ -59,6 +60,10 @@ We’re not just looking for perfect code. We’re looking at:
 - Coding skills as well as documentation clarity
 
 ---
-Important Note on Documentation: This repository contains a wiki.md file. Please be aware that some information in wiki.md may be intentionally outdated or contradictory to simulate real-world scenarios where documentation might not always be synchronized with current requirements. Your ability to identify and navigate such discrepancies is part of the assessment.
+## 📄 Note on `wiki.md`
+
+There is an `wiki.md` file in the repository.  
+It was last updated **several years ago** and may contain **inaccurate or outdated information**.  
+Use it **only as a loose reference**, not as a definitive source of truth.
 
 Good luck — we’re excited to see your thinking and approach!
