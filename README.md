@@ -47,8 +47,8 @@ You’ll be working on the following 4 tasks — complete as many as you can wit
 
 After the timer ends, the platform will ask you to:
 
-1. 📁 Upload your modified project as a `.zip`
-2. 🎤 Record a **short reflection video** (up to 2 minutes) in your browser
+1. 🎤 Record a **short reflection video** (up to 2 minutes) in your browser
+2. 📁 Upload your modified project as a `.zip`
 
 ---
 
